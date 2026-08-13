@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+## Genererades av github copilot 2026-08-13
 """
 Program to calculate the mean of a list of numbers.
 """
