@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Sida-1" id="t81U17u8yilr662Sb7D5">
+    <mxGraphModel dx="1722" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KQG0hEIEw1824YPVqXoy-1" parent="1" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=190;dy=50;" value="" vertex="1">
+          <mxGeometry height="370" width="730" x="170" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;Kod&lt;/b&gt;&lt;/div&gt;article = &#39;the&#39;&lt;div&gt;honorific = &#39;Mr&#39;&lt;/div&gt;&lt;div&gt;latest_knight_presented = None&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;present_knight(&#39;Lancelot&#39;, &#39;Brave&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;present_knight(&#39;Galahad&#39;, &#39;Pure&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="390" x="430" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Variabler&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;article -&amp;gt; &#39;the&#39;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;honorific -&amp;gt; &#39;Mr&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;latest_knight_printed -&amp;gt; None&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="185" x="180" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-14" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="170" width="530" x="380" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-4" parent="KQG0hEIEw1824YPVqXoy-14" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=130;dy=60;" value="" vertex="1">
+          <mxGeometry height="170" width="500" as="geometry" />
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-13" connectable="0" parent="KQG0hEIEw1824YPVqXoy-14" style="group" value="" vertex="1">
+          <mxGeometry height="150" width="516" x="14" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-5" parent="KQG0hEIEw1824YPVqXoy-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Funktionsnamn&lt;/b&gt;&lt;div&gt;print_knight&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-6" parent="KQG0hEIEw1824YPVqXoy-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Parametrar&lt;/b&gt;&lt;div style=&quot;&quot;&gt;name -&amp;gt; &#39;Lancelot&#39;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;trait -&amp;gt; &#39;Brave&#39;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="186" as="geometry" />
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-7" parent="KQG0hEIEw1824YPVqXoy-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Lokala variabler&lt;/b&gt;&lt;div&gt;honorific -&amp;gt; &#39;Sir&#39;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-8" parent="KQG0hEIEw1824YPVqXoy-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;Funktionskod&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; global latest_knight_presented&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; honorific = &#39;Sir&#39;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; full_address = f&#39;{honorific} {name} {article} {trait}&#39;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; latest_knight_presented = full_address&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; &amp;nbsp; print(full_address + &#39;!&#39;)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="340" x="176" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-16" edge="1" parent="KQG0hEIEw1824YPVqXoy-13" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="136" y="94.58000000000004" as="sourcePoint" />
+            <mxPoint x="176" y="94.58000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-15" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="170" as="sourcePoint" />
+            <mxPoint x="430" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KQG0hEIEw1824YPVqXoy-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Huvudprogram&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="190" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
