@@ -22,7 +22,7 @@
         <mxCell id="KQG0hEIEw1824YPVqXoy-13" connectable="0" parent="KQG0hEIEw1824YPVqXoy-14" style="group" value="" vertex="1">
           <mxGeometry height="150" width="516" x="14" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="KQG0hEIEw1824YPVqXoy-5" parent="KQG0hEIEw1824YPVqXoy-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Funktionsnamn&lt;/b&gt;&lt;div&gt;print_knight&lt;/div&gt;" vertex="1">
+        <mxCell id="KQG0hEIEw1824YPVqXoy-5" parent="KQG0hEIEw1824YPVqXoy-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Funktion&lt;/b&gt;&lt;div&gt;present_knight&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" as="geometry" />
         </mxCell>
         <mxCell id="KQG0hEIEw1824YPVqXoy-6" parent="KQG0hEIEw1824YPVqXoy-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Parametrar&lt;/b&gt;&lt;div style=&quot;&quot;&gt;name -&amp;gt; &#39;Lancelot&#39;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;trait -&amp;gt; &#39;Brave&#39;&lt;/div&gt;" vertex="1">
