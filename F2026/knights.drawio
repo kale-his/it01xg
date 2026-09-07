@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="29.3.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36">
   <diagram name="Sida-1" id="t81U17u8yilr662Sb7D5">
-    <mxGraphModel dx="1722" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="KQG0hEIEw1824YPVqXoy-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;Kod&lt;/b&gt;&lt;/div&gt;article = &#39;the&#39;&lt;div&gt;honorific = &#39;Mr&#39;&lt;/div&gt;&lt;div&gt;latest_knight_presented = None&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;present_knight(&#39;Lancelot&#39;, &#39;Brave&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;present_knight(&#39;Galahad&#39;, &#39;Pure&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="390" x="430" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="KQG0hEIEw1824YPVqXoy-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Variabler&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;article -&amp;gt; &#39;the&#39;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;honorific -&amp;gt; &#39;Mr&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;latest_knight_presented -&amp;gt; None&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="KQG0hEIEw1824YPVqXoy-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Globala variabler&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;present_knight -&amp;gt; &amp;lt;funktion&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;article -&amp;gt; &#39;the&#39;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;honorific -&amp;gt; &#39;Mr&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;latest_knight_presented -&amp;gt; None&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="185" x="180" y="80" as="geometry" />
         </mxCell>
         <mxCell id="KQG0hEIEw1824YPVqXoy-14" connectable="0" parent="1" style="group" value="" vertex="1">
