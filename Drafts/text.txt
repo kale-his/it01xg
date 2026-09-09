@@ -1,0 +1,3 @@
+Detta är rad 1.
+Den följs av rad 2.
+Sedan kommer rad 3.
