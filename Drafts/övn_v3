@@ -1,0 +1,45 @@
+Gör en funktion
+label_sum(filename, label)
+som läser in en fil med namn filename.
+där varje rad består av två poster, en etikett (ett ord, som str) och ett talvärde (läs som float), åtskiljda av "whitespace" (en eller flra blanksteg eller tabbar), se exempel nedan.
+för givet argument till parametern label ska funktionen returnera
+summan av talvärdena för de rader som har etiketten label
+
+Test:
+För en fil testfil.txt med innehåll
+
+abc 3
+def 7.2
+abc 5
+abc 78.3
+def 34
+
+implementera funktionen labelsum så att testet nedan ger önskad utskrift.
+För att plocka ut de två posterna ur en rad kan du använda
+post1, post2 = row.strip().split()
+(Om inte varje rad i filen har precis två poster, kommer det att ge felmeddelnde.)
+
+
+def labelsum(fileobject, label):
+    ''' For a file with rows consisting of a label followed by a number,
+    return the sum of the number in rows labelled with label.'''
+    fileobject.seek(0) # Start reading from the beginning of the file
+    '''
+    Implement the body of the function
+    '''
+
+''' Testfall, ska skriva ut
+abc 86.3
+def 41.2
+'''
+with open('testfil.txt', encoding = 'utf-8') as f:
+    print('abc', labelsum(f, 'abc'))
+    print('def', labelsum(f, 'def'))
+
+
+
+Fortsättning med dict
+Bygg upp en dict med alla förekommande etiketter som nycklar, och respektive summa som värde.
+Se dokumentationen för dict för användbara metoder.
+
+
